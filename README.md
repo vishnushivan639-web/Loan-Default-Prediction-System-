@@ -178,41 +178,10 @@ Dashboard Features:
 • Dynamic and interactive graphs
 
 The dashboard supports data-driven financial decision-making.
-
-fig1 = px.scatter(
-    df,
-    x='annual_inc',
-    y='loan_amnt',
-    color='loan_status',
-    title='Income vs Loan Amount'
-)
-
-fig1.show()
-fig2 = px.histogram(
-    df,
-    x='loan_amnt',
-    color='loan_status',
-    title='Loan Amount Distribution'
-)
-
-fig2.show()
-fig3 = px.box(
-    df,
-    x='loan_status',
-    y='int_rate',
-    color='loan_status',
-    title='Interest Rate vs Loan Status'
-)
-
-fig3.show()
-fig4 = px.bar(
-    df,
-    x='home_ownership',
-    color='loan_status',
-    title='Default Comparison by Home Ownership'
-)
-
-fig4.show()
+<img width="867" height="360" alt="sc9" src="https://github.com/user-attachments/assets/51e3007c-37c7-4461-a574-fc28d74d6f62" />
+<img width="869" height="370" alt="sc10" src="https://github.com/user-attachments/assets/9a81e558-1a89-41d9-aea5-97f72335431e" />
+<img width="865" height="430" alt="sc11" src="https://github.com/user-attachments/assets/828bb229-76de-4750-8dd6-5d2d64a31f6f" />
+<img width="855" height="438" alt="sc12" src="https://github.com/user-attachments/assets/599a159b-5875-460f-b4b4-9092c6a1a8d2" />
 
 
 
