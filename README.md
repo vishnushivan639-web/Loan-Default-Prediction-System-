@@ -105,6 +105,13 @@ Visualization techniques were used to understand patterns and trends:
 
 Interactive dashboards were created using Plotly for better insights and exploration.
 
+<img width="673" height="400" alt="sc6" src="https://github.com/user-attachments/assets/cc4844b6-db48-4acd-a6f6-43134e1eb8c9" />
+<img width="605" height="418" alt="sc7" src="https://github.com/user-attachments/assets/393bbf22-110b-40c8-88b7-e2b4caba36ef" />
+<img width="605" height="429" alt="sc8" src="https://github.com/user-attachments/assets/3eee8646-c223-4872-85f9-c2a980f29002" />
+
+
+
+
 ---
 
 ⚠️ 4. Risk Analysis
@@ -216,8 +223,5 @@ This project demonstrates how data analytics and machine learning can help finan
 
 Through EDA, predictive modeling, and interactive dashboards, the system provides meaningful insights that support smarter loan approval strategies and reduce financial losses.
 
-<img width="673" height="400" alt="sc6" src="https://github.com/user-attachments/assets/cc4844b6-db48-4acd-a6f6-43134e1eb8c9" />
-<img width="605" height="418" alt="sc7" src="https://github.com/user-attachments/assets/393bbf22-110b-40c8-88b7-e2b4caba36ef" />
-<img width="605" height="429" alt="sc8" src="https://github.com/user-attachments/assets/3eee8646-c223-4872-85f9-c2a980f29002" />
 
 
