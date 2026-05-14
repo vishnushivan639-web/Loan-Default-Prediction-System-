@@ -179,6 +179,43 @@ Dashboard Features:
 
 The dashboard supports data-driven financial decision-making.
 
+fig1 = px.scatter(
+    df,
+    x='annual_inc',
+    y='loan_amnt',
+    color='loan_status',
+    title='Income vs Loan Amount'
+)
+
+fig1.show()
+fig2 = px.histogram(
+    df,
+    x='loan_amnt',
+    color='loan_status',
+    title='Loan Amount Distribution'
+)
+
+fig2.show()
+fig3 = px.box(
+    df,
+    x='loan_status',
+    y='int_rate',
+    color='loan_status',
+    title='Interest Rate vs Loan Status'
+)
+
+fig3.show()
+fig4 = px.bar(
+    df,
+    x='home_ownership',
+    color='loan_status',
+    title='Default Comparison by Home Ownership'
+)
+
+fig4.show()
+
+
+
 ---
 
 🛠️ Tools and Technologies
